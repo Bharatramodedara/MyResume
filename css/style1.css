@@ -5,15 +5,13 @@ body{
 h1{
   display: block;
   margin:0;
-  font-size: 70px;
 }
 h1:hover{
-  font-size: 90px;
+  font-size: 50px;
 }
 h5{
   display: block;
   margin:0;
-  font-size: 30px;
 }
 h2{
   display: block;
@@ -28,7 +26,6 @@ border-radius: 10%;
 }
 p{
   display: block;
-  font-size: 25px;
 }
 table{
   font-size: 25px;
